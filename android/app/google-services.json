@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425805105873",
+    "project_id": "message-board-app-b3e3f",
+    "storage_bucket": "message-board-app-b3e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425805105873:android:598af448649d6a060793f0",
+        "android_client_info": {
+          "package_name": "com.mad.messageboard.message_board_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425805105873-0887cqasnjt48tejd3djvhofvb6908l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.messageboard.message_board_app",
+            "certificate_hash": "675800409d0191f43eee2e6a33809aa3f2cb21b0"
+          }
+        },
+        {
+          "client_id": "425805105873-as2eqoj5r4j756hd4rtdcc138aptdg0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEV-qBqJuAp5IHNBSEHk_Xe9VX7Eo8fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425805105873-as2eqoj5r4j756hd4rtdcc138aptdg0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

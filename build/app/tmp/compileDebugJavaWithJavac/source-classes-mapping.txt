@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mad/messageboard/message_board_app/BuildConfig.java
+ com.mad.messageboard.message_board_app.BuildConfig
